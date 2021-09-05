@@ -8,3 +8,6 @@ https://mdstrm.com/live-stream-gdai/609ad46a7a441137107d7a81/linear/hls/pa/event
 
 #EXTINF:-1 tvg-chno="100" ,Fox Action
 https://edge1.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/FoxActionHD.m3u8
+
+#EXTINF:-1 tvg-chno="101" ,Fox Cinema
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/5s69x53079q85.m3u8?s=gBkf3WDUaAm0ot8TO_lvnQ&e=1630904293
