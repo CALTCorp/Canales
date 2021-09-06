@@ -20,6 +20,3 @@ https://edge1.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/FoxActionHD.m
 
 #EXTINF:-1 tvg-chno="101" ,Star Hits
 https://vsd63.mycdn.me/hls/1626915801684.m3u8/sig/v1BWagISg8w/expires/1630977349540/srcIp/187.244.124.81/urls/185.226.52.52/clientType/0/srcAg/CHROME_ANDROID/mid/2781432454740/video.m3u8?p
-
-#EXTINF:-1 tvg-chno="102", Star comedy
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
