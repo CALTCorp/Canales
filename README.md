@@ -12,9 +12,6 @@ https://vsd90.mycdn.me/hls/1441443482118.m3u8/sig/-nFlOj12rTY/expires/1630977121
 #EXTINF:-1 tvg-chno="7" ,Azteca 7
 https://vsd90.mycdn.me/hls/1441440467462.m3u8/sig/zngQVI-0BqQ/expires/1630976864113/srcIp/187.244.124.81/urls/185.226.52.46/clientType/0/srcAg/CHROME_ANDROID/mid/3003072912902/video.m3u8?p
 
-#EXTINF:-1 tvg-chno="10" ,Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
 #EXTINF:-1 tvg-chno="100" ,Star Action
 https://edge1.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/FoxActionHD.m3u8
 
