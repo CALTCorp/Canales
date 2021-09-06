@@ -10,7 +10,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?tecnotv.info?.m3u
 https://vsd90.mycdn.me/hls/1441443482118.m3u8/sig/-nFlOj12rTY/expires/1630977121022/srcIp/187.244.124.81/urls/185.226.53.57/clientType/0/srcAg/CHROME_ANDROID/mid/3003075403270/video.m3u8?p
 
 #EXTINF:-1 tvg-chno="7" ,Azteca 7
-https://vsd90.mycdn.me/hls/1441440467462.m3u8/sig/zngQVI-0BqQ/expires/1630976864113/srcIp/187.244.124.81/urls/185.226.52.46/clientType/0/srcAg/CHROME_ANDROID/mid/3003072912902/video.m3u8?p
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 #EXTINF:-1 tvg-chno="100" ,Star Action
 https://edge1.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/FoxActionHD.m3u8
